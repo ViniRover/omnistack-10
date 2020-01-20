@@ -1,2 +1,2 @@
-# omnistack-10
+# semana-omnistack-10
 Projeto criado durante a semana Omnistack 10.0
